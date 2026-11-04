@@ -1,5 +1,5 @@
 /*
-    WANAPI 页面文字与链接配置
+    YUKIAPI 页面文字与链接配置
 
     不放在这里的固定界面文字：
     ROUTES、READY、MODELS、ONLINE、STREAM、ACTIVE、gateway load、
@@ -18,7 +18,7 @@ window.WANAPI_CONTENT = {
     site: {
         name: "YUKIAPI",
         pageTitle: "YUKIAPI",
-        description: "YUKIAPI AI API 中转站首页。",
+        description: "YUKIAPI 中转站首页。",
         brandCaption: "inspiration gateway",
         eyebrow: "YUKIAPI / custom home",
     },
@@ -34,7 +34,7 @@ window.WANAPI_CONTENT = {
 
     // Hero 首屏：title 是大标题，description 是标题下方的介绍文字。
     hero: {
-        title: "WANAPI",
+        title: "YUKIAPI",
         description: "通过统一接口、渠道路由和用量管理能力，把模型服务整理成清晰的入口，提供稳定、清楚的响应路径。",
         primaryButton: "开始使用",
         secondaryButton: "查看官方文档",
@@ -42,7 +42,7 @@ window.WANAPI_CONTENT = {
 
     // 状态面板只保留用户可感知的标题；内部状态标签固定在 index.html。
     statusPanel: {
-        caption: "WANAPI 状态正常",
+        caption: "YUKIAPI 状态正常",
     },
 
     // 首屏下方的四个统计项，每组由 value 和 label 组成。
@@ -113,7 +113,7 @@ window.WANAPI_CONTENT = {
     // 页脚：repositoryLabel 是链接显示文字，copyrightName 是版权名称。
     footer: {
         repositoryLabel: "前端仓库",
-        copyrightName: "WANAPI",
+        copyrightName: "YUKIAPI",
     },
 
     links: {
