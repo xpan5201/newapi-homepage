@@ -16,11 +16,11 @@
 window.WANAPI_CONTENT = {
     // 信息：修改 name 后，页面中的多个 WANAPI 品牌位置会同步变化。
     site: {
-        name: "WANAPI",
-        pageTitle: "WANAPI",
-        description: "WANAPI AI API 中转站首页。",
+        name: "YUKIAPI",
+        pageTitle: "YUKIAPI",
+        description: "YUKIAPI AI API 中转站首页。",
         brandCaption: "inspiration gateway",
-        eyebrow: "WANAPI / custom home",
+        eyebrow: "YUKIAPI / custom home",
     },
 
     // 顶部导航：features/workflow/models 对应页面内的三个锚点区域。
@@ -119,8 +119,8 @@ window.WANAPI_CONTENT = {
     links: {
         consolePath: "/",
         registerPath: "/register",
-        documentationUrl: "https://docs.newapi.pro/zh/docs",
-        repositoryUrl: "https://github.com/CanYanQwQ/newapi-homepage",
+        documentationUrl: "https://docs.newapi.ai/zh/docs",
+        repositoryUrl: "https://github.com/xpan5201/newapi-homepage",
     },
 
 };
