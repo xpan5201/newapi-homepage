@@ -2,10 +2,6 @@
 
 New API 的二次元风格静态首页。
 
-## 在线体验
-
-[访问 WANAPI](https://newapi.zhouwanx.top)
-
 ## 页面特性
 - 通过 `content-config.js` 集中修改品牌、文案和链接
 - 自动适配 New API 的 iframe 首页模式
@@ -25,15 +21,15 @@ New API 的二次元风格静态首页。
 ```js
 window.WANAPI_CONTENT = {
     site: {
-        name: "WANAPI",
-        pageTitle: "WANAPI",
-        description: "WANAPI AI API 中转站首页。",
+        name: "YUKIAPI",
+        pageTitle: "YUKIAPI",
+        description: "YUKIAPI 中转站首页。",
     },
     links: {
         consolePath: "/",
         registerPath: "/register",
-        documentationUrl: "https://docs.newapi.pro/zh/docs",
-        repositoryUrl: "https://github.com/CanYanQwQ/newapi-homepage",
+        documentationUrl: "https://docs.newapi.ai/zh/docs",
+        repositoryUrl: "https://github.com/xpan5201/newapi-homepage",
     },
 };
 ```
@@ -97,9 +93,7 @@ window.WANAPI_CONTENT = {
 
 ## 广告
 **api中转站推荐**
-`newapi.zhouwanx.top`
-
-**希望给一个star**
+`https://api.yukinoo.com`
 
 ## 许可说明
 
